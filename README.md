@@ -174,4 +174,4 @@ Cheminformatics and Nutrition (QiN) Research Group
 
 Parts of the code structure and documentation were drafted with assistance from ChatGPT (OpenAI), under human supervision and subsequent review.
 
-Licensed under the MIT License.
+Licensed under the AGPL-3.0 License.
